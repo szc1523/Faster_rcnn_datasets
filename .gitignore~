@@ -1,6 +1,5 @@
 *.pyc
 .ipynb_checkpoints
-.idea/
 caffe-fast-rcnn/build
 caffe-fast-rcnn/.buil_release
 lib/build
