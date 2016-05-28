@@ -1,6 +1,7 @@
 *.pyc
 .ipynb_checkpoints
 caffe-fast-rcnn/build
+caffe-fast-rcnn/.buil_release
 lib/build
 lib/pycocotools/_mask.c
 lib/pycocotools/_mask.so
